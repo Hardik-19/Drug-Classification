@@ -7,14 +7,14 @@ This project focuses on classifying drugs based on given features using machine 
 
 **Dataset**: California housing data - https://www.kaggle.com/datasets/camnugent/california-housing-prices?select=housing.csv
 
-**Approach**: Implement various ML models, including Logistic Regression, Random Forest, SVM , KNN , Decision Tree , Naive Bayers  and GridSearchCV for hyperparameter tuning.
+**Approach**: Implement various ML models, including Logistic Regression, Random Forest, SVM , KNN , Decision Tree , Naive Bayers  and GridSearchCV for hyperparameter tuning & Ensemble techinique like Hard Voting & Stacking to collectively increase the performance of above models.
 
 ## Features & Methodology
 - **Data Preprocessing**: Handle missing values, outliers, and categorical encoding.
 - **Feature Engineering**: Extract meaningful medical attributes to improve classification accuracy.
 - **Data Scaling**: Normalize features using StandardScaler.
 - **Data Visualization**: Utilize pair plots (Seaborn pairplot) to explore relationships between features.
-- **Model Training**: Train multiple models (Logistic Regression, Random Forest , KNN , SVM , Decision Tree , Naive Bayers).
+- **Model Training**: Train multiple models (Logistic Regression, Random Forest , KNN , SVM , Decision Tree , Naive Bayers) & Ensemble Techinique - Hard Voting & Stacking.
 - **Hyperparameter Tuning**: Optimize model parameters using GridSearchCV.
 - **Performance Evaluation**: Evaluate models using accuracy, precision, recall, and F1-score.
 - **Confusion Matrix**: Visualize classification performance using a confusion matrix.
