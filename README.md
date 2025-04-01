@@ -14,7 +14,8 @@ This project focuses on classifying drugs based on given features using machine 
 - **Feature Engineering**: Extract meaningful medical attributes to improve classification accuracy.
 - **Data Scaling**: Normalize features using StandardScaler.
 - **Data Visualization**: Utilize pair plots (Seaborn pairplot) to explore relationships between features.
-- **Model Training**: Train multiple models (Logistic Regression, Random Forest , KNN , SVM , Decision Tree , Naive Bayers) & Ensemble Techinique - Hard Voting & Stacking.
+- **Model Training**: Train multiple models (Logistic Regression, Random Forest , KNN , SVM , Decision Tree , Naive Bayers)
+- **Ensemble Techinique** - Hard Voting & Stacking.
 - **Hyperparameter Tuning**: Optimize model parameters using GridSearchCV.
 - **Performance Evaluation**: Evaluate models using accuracy, precision, recall, and F1-score.
 - **Confusion Matrix**: Visualize classification performance using a confusion matrix.
